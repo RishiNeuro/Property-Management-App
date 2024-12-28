@@ -91,7 +91,7 @@ Click the "Generate" button at the bottom. This will download a compressed file 
 Extract the downloaded zip file.
 You can import the project into your preferred IDE (e.g., IntelliJ IDEA, Eclipse) for further development.
 Congratulations! You've now set up a basic Spring Boot project with the necessary dependencies for user authentication in your property management application. Now you can proceed with creating your User entity, repository, and other components as outlined in the previous responses.
-
+_______________________________________________________________________________________________________________________________________________________________
 
 You absolutely can use Android Studio for Java backend development, especially for a Spring Boot project. Here's why and how:
 
